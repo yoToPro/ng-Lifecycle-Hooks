@@ -1,13 +1,13 @@
 # Angular Lifecycle Hooks
 
-# Concecpts to understand
+Concecpts to understand
   1. Lificycle Hooks
   2. Input/Output Decorators
   3. Observables
   4. Component Decorators
 
 
-# Refrences: 
+Refrences:
 https://medium.com/bb-tutorials-and-thoughts/angular-understanding-angular-lifecycle-hooks-with-a-sample-project-375a61882478
 
 
