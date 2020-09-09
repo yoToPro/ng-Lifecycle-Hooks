@@ -1,6 +1,21 @@
-# AngularLifecycleHooks
+# Angular Lifecycle Hooks
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+# Concecpts to understand
+  1. Lificycle Hooks
+  2. Input/Output Decorators
+  3. Observables
+  4. Component Decorators
+
+
+# Refrences: 
+https://medium.com/bb-tutorials-and-thoughts/angular-understanding-angular-lifecycle-hooks-with-a-sample-project-375a61882478
+
+
+
+
+
+
+
 
 ## Development server
 
